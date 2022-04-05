@@ -1,7 +1,0 @@
-Név;Típus;Motor;LE;Nm;Üzemanyag;Gyáriszám
-Audi A6;Sedan;3.0 TDI V6 BiTurbo;244;502;Diesel;8EZDLPZWVJ6A2PK99
-Peugeot 307 SW;Kombi;2.0 HDI Turbo;110;350;Diesel;1MRI3JEC4X250FC9S
-Opel Insignia;Kombi;2.8 V6 OPC;325;450;Benzin;HXFELUYKBNWSCWRKG
-Volkswagen Golf V;Ferdehátú;2.0 FSI;150;200;Benzin;ZDWI5985BD4HDW8AQ
-Suzuki Swift;Sedan;1.3 GLX;68;99;Benzin;JY0PGMMYVIXMHTJZI
-BMW M4 GTS;Coupe;3.0 Twin-Turbo;496;600;Diesel;RKV0MYT748ZJMFP2F
