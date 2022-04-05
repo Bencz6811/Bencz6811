@@ -81,7 +81,7 @@ namespace HF
             cb_uzemanyag.Items.Add("Benzin");
         }
 
-        private void btn_mentes_Click(object sender, EventArgs e)
+        private void btn_mentes_Click(object sender, EventArgs e) // This is a button click event
         {
             bool van = false;
             StreamWriter sw = new StreamWriter("Autok.txt");
@@ -119,7 +119,7 @@ namespace HF
             sw.Close();
         }
 
-        private void Auto_adatok(object sender, EventArgs e)
+        private void Auto_adatok(object sender, EventArgs e) //This is selected index changed event
         {
             foreach (var item in kocsi)
             {
@@ -135,7 +135,7 @@ namespace HF
             }
         }
 
-        private void Bezar(object sender, EventArgs e)
+        private void Bezar(object sender, EventArgs e) // This is a button click event
         {
             this.Close();
         }
